@@ -1,0 +1,271 @@
+[
+  {
+    "name": "Iphone 11",
+    "year": 2019,
+    "quantity": 5,
+    "brand": "Iphone",
+    "color": "black",
+    "size": 64,
+    "popular": true,
+    "price": 1689.00,
+    "img": "data/img/iphone11.jpeg"
+  },
+  {
+    "name": "Iphone 11",
+    "year": 2019,
+    "quantity": 3,
+    "brand": "Iphone",
+    "color": "orange",
+    "size": 128,
+    "popular": false,
+    "price": 1890.00,
+    "img": "data/img/iphone11yell.jpeg"
+  },
+  {
+    "name": "Iphone 13",
+    "year": 2021,
+    "quantity": 2,
+    "brand": "Iphone",
+    "color": "blue",
+    "size": 256,
+    "popular": true,
+    "price": 2550.00,
+    "img": "data/img/iphone13.jpeg"
+  },
+  {
+    "name": "Iphone 13 Pro",
+    "year": 2021,
+    "quantity": 10,
+    "brand": "Iphone",
+    "color": "white",
+    "size": 512,
+    "popular": true,
+    "price": 3210.00,
+    "img": "data/img/iphone13pro.jpeg"
+  },
+
+  {
+    "name": "Iphone 13 Pro",
+    "year": 2021,
+    "quantity": 11,
+    "brand": "Iphone",
+    "color": "green",
+    "size": 128,
+    "popular": true,
+    "price": 3209.00,
+    "img": "data/img/iphone13prog.jpeg"
+  },
+  {
+    "name": "Galaxy A52",
+    "year": 2021,
+    "quantity": 12,
+    "brand": "Samsung",
+    "color": "black",
+    "size": 128,
+    "popular": true,
+    "price": 895.00,
+    "img": "data/img/a52.jpeg"
+  },
+  {
+    "name": "Galaxy S21",
+    "year": 2022,
+    "quantity": 2,
+    "brand": "Samsung",
+    "color": "pink",
+    "size": 256,
+    "popular": false,
+    "price": 2143.08,
+    "img": "data/img/s21.jpeg"
+  },
+  {
+    "name": "Galaxy Z Fold3",
+    "year": 2021,
+    "quantity": 2,
+    "brand": "Samsung",
+    "color": "black",
+    "size": 512,
+    "popular": false,
+    "price": 4954.00,
+    "img": "data/img/z.jpeg"
+  },
+
+  {
+    "name": "Galaxy Note20",
+    "year": 2020,
+    "quantity": 4,
+    "brand": "Samsung",
+    "color": "green",
+    "size": 128,
+    "popular": false,
+    "price": 3700.00,
+    "img": "data/img/note20.jpeg"
+  },
+  {
+    "name": "Galaxy S22 Ultra",
+    "year": 2022,
+    "quantity": 1,
+    "brand": "Samsung",
+    "color": "blue",
+    "size": 256,
+    "popular": true,
+    "price": 3600.00,
+    "img": "data/img/s22.jpeg"
+  },
+  {
+    "name": "Redmi Note 10S",
+    "year": 2021,
+    "quantity": 8,
+    "brand": "Xiaomi",
+    "color": "blue",
+    "size": 64,
+    "popular": true,
+    "price": 736.00,
+    "img": "data/img/10s.jpeg"
+  },
+  {
+    "name": "Redmi Note 10 Pro",
+    "year": 2021,
+    "quantity": 11,
+    "brand": "Xiaomi",
+    "color": "orange",
+    "size": 64,
+    "popular": true,
+    "price": 790.00,
+    "img": "data/img/note10.jpeg"
+  },
+  {
+    "name": "11 Lite 5G",
+    "year": 2021,
+    "quantity": 12,
+    "brand": "Xiaomi",
+    "color": "black",
+    "size": 128,
+    "popular": true,
+    "price": 929.95,
+    "img": "data/img/lite.jpeg"
+  },
+  {
+    "name": "11T",
+    "year": 2021,
+    "quantity": 10,
+    "brand": "Xiaomi",
+    "color": "white",
+    "size": 128,
+    "popular": false,
+    "price": 1330,
+    "img": "data/img/11t.jpeg"
+  },
+  {
+    "name": "Mi Mix 4",
+    "year": 2021,
+    "quantity": 5,
+    "brand": "Xiaomi",
+    "color": "white",
+    "size": 512,
+    "popular": false,
+    "price": 3999.00,
+    "img": "data/img/mix.jpeg"
+  },
+  {
+    "name": "P20 Pocket",
+    "year": 2021,
+    "quantity": 2,
+    "brand": "Huawei",
+    "color": "white",
+    "size": 256,
+    "popular": false,
+    "price": 4510.00,
+    "img": "data/img/p20.jpeg"
+  },
+  {
+    "name": "Mate 40 Pro",
+    "year": 2020,
+    "quantity": 3,
+    "brand": "Huawei",
+    "color": "blue",
+    "size": 256,
+    "popular": false,
+    "price": 3300.00,
+    "img": "data/img/mate.jpeg"
+  },
+  {
+    "name": "P50 Pro",
+    "year": 2021,
+    "quantity": 5,
+    "brand": "Huawei",
+    "color": "orange",
+    "size": 128,
+    "popular": false,
+    "price": 2999.00,
+    "img": "data/img/p50.jpeg"
+  },
+
+  {
+    "name": "Mate 30 Pro",
+    "year": 2019,
+    "quantity": 4,
+    "brand": "Huawei",
+    "color": "black",
+    "size": 256,
+    "popular": false,
+    "price": 2200.00,
+    "img": "data/img/30pro.jpeg"
+  },
+  {
+    "name": "Nova 8i",
+    "year": 2021,
+    "quantity": 8,
+    "brand": "Huawei",
+    "color": "blue",
+    "size": 128,
+    "popular": true,
+    "price": 862.00,
+    "img": "data/img/8i.jpeg"
+  },
+  {
+    "name": "X9",
+    "year": 2022,
+    "quantity": 4,
+    "brand": "HONOR",
+    "color": "blue",
+    "size": 64,
+    "popular": true,
+    "price": 940.00,
+    "img": "data/img/x9.jpeg"
+  },
+  {
+    "name": "50",
+    "year": 2021,
+    "quantity": 10,
+    "brand": "HONOR",
+    "color": "green",
+    "size": 128,
+    "popular": true,
+    "price": 1150.00,
+    "img": "data/img/50.jpeg"
+  },
+
+  {
+    "name": "30",
+    "year": 2020,
+    "quantity": 12,
+    "brand": "HONOR",
+    "color": "black",
+    "size": 64,
+    "popular": true,
+    "price": 1166.00,
+    "img": "data/img/30.jpeg"
+  },
+
+  {
+    "name": "7A Prime",
+    "year": 2020,
+    "quantity": 7,
+    "brand": "HONOR",
+    "color": "blue",
+    "size": 64,
+    "popular": true,
+    "price": 465.85,
+    "img": "data/img/7a.jpeg"
+  }
+]
